@@ -1,0 +1,5 @@
+<resources>
+    <!-- Se basa en un key value
+     donde la key es app_name y el valor el Clase01 -->
+    <string name="app_name">Clase 01 area</string>
+</resources>
