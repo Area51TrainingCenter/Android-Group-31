@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departamentos">
+        <item>Seleccionar</item>
+        <item>Lima</item>
+        <item>Ica</item>
+    </string-array>
+
+    <string-array name="departamento_lima">
+        <item>Seleccionar</item>
+        <item>Lima</item>
+        <item>Cañete</item>
+    </string-array>
+
+    <string-array name="departamento_ica">
+        <item>Seleccionar</item>
+        <item>Ica</item>
+        <item>Pisco</item>
+    </string-array>
+</resources>
