@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mod2Class1</string>
+    <string name="texto_uno">Texto Uno</string>
+    <string name="texto_dos">Texto Dos</string>
+    <string name="registrar">Registrar</string>
+    <string name="text_titulo">Seleccione Opción</string>
+    <string name="text_message">Acción a realizar</string>
+    <string name="text_eliminar">Eliminar</string>
+    <string name="text_modificar">Modificar</string>
+    <string name="text_ver">Ver</string>
+</resources>
