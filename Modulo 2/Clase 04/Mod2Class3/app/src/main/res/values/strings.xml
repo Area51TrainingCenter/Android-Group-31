@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mod2Class3</string>
+    <string name="nombre_administrador">Nombre Administrador</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="registrar">Registrar</string>
+    <string name="listado">Listado</string>
+</resources>
