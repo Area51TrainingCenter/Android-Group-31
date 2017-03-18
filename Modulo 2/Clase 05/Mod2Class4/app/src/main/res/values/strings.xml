@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mod2Class4</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripción</string>
+    <string name="tres_puntos">...</string>
+    <string name="registrar">Registrar</string>
+    <string name="listado">Listado</string>
+    <string name="ruta_imagen">Ruta Imagen</string>
+</resources>
