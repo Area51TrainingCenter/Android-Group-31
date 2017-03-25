@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mod2Class7_31</string>
+    <string name="titulo">Titulo</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Logintud</string>
+    <string name="buscar">Buscar</string>
+    <string name="direccion">Dirección</string>
+    <string name="registrar">Registrar</string>
+    <string name="ver_mapa">Ver Mapa</string>
+
+    <string name="api_maps">AIzaSyCybxMGVc6i27o3Fur5Awv9Ypb0cbSt2WE</string>
+    <string name="normal">Normal</string>
+    <string name="hibrido">Hibrido</string>
+    <string name="satelite">Satelite</string>
+    <string name="terrestre">Terrestre</string>
+</resources>
