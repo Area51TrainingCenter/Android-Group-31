@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mod3Class1_1</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="username">Username</string>
+
+    <string name="api_key">AIzaSyDsp9v5H3BWxEpRkQ9VgBqyB7S1DrVaJSU</string>
+</resources>
